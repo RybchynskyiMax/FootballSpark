@@ -29,7 +29,7 @@
 
                     <archive>
                         <manifest>
-                            <mainClass>ua.lviv.bigdata.Main</mainClass>
+                            <mainClass>ua.lviv.bigdata.SortWithCogroup</mainClass>
                         </manifest>
                     </archive>
 
