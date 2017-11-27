@@ -29,7 +29,7 @@
 
                     <archive>
                         <manifest>
-                            <mainClass>ua.lviv.bigdata.SortWithBroadcastVar</mainClass>
+                            <mainClass>ua.lviv.bigdata.SortWithAccum</mainClass>
                         </manifest>
                     </archive>
 
